@@ -1,0 +1,15 @@
+<resources>
+
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+	<color name="backcolor">#ffd4e157</color>
+    <color name="linecolor">#ff0d5302</color>
+    <color name="optionlinecolor">#ff000000</color>
+    <color name="fontcolor">#ff33691e</color>
+    <color name="selectcolor">#ffc6ff00</color>
+    <color name="buttonbackcolor">#ffafb42b</color>
+    <color name="buttonbordercolor">#ff6d4c41</color>
+    <color name="buttonfontcolor">#ffbf360c</color>
+    <color name="chessselectcolor">#fff451ee</color>
+</resources>
